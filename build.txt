@@ -283,3 +283,4 @@
 "Build definition: Trigger-Cheshire-CI-Tester_20190908.1 !" 
 "Build definition: Trigger-Cheshire-CI-Tester_20190909.1 !" 
 "Build definition: Trigger-Cheshire-CI-Tester_20190910.1 !" 
+"Build definition: Trigger-Cheshire-CI-Tester_20190911.1 !" 
