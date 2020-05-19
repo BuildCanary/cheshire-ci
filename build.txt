@@ -541,3 +541,4 @@
 "Build definition: Trigger-Cheshire-CI-Tester_20200516.1 !" 
 "Build definition: Trigger-Cheshire-CI-Tester_20200517.1 !" 
 "Build definition: Trigger-Cheshire-CI-Tester_20200518.1 !" 
+"Build definition: Trigger-Cheshire-CI-Tester_20200519.1 !" 
