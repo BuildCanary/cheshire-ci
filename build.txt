@@ -923,3 +923,4 @@
 "Build definition: Trigger-Cheshire-CI-Tester_20210603.1 !" 
 "Build definition: Trigger-Cheshire-CI-Tester_20210604.1 !" 
 "Build definition: Trigger-Cheshire-CI-Tester_20210605.1 !" 
+"Build definition: Trigger-Cheshire-CI-Tester_20210606.1 !" 
